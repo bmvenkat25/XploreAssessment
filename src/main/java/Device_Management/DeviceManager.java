@@ -4,5 +4,8 @@ public class DeviceManager {
     public static void printMethod() {
 
     }
+    public static void printId() {
+
+    }
 
 }
