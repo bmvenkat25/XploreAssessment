@@ -7,5 +7,7 @@ public class DeviceManager {
     public static void printId() {
 
     }
+    public static void printone() {}
+
 
 }
